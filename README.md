@@ -1,3 +1,5 @@
 # Installation
 git clone https://github.com/pedramgholizadeh/webiro/
-run 'installer.php'
+
+# Usage
+run 'installer.php' and install with duplicator! enjoy ...
